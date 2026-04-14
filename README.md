@@ -20,7 +20,7 @@
 
 <div align="center">
 
-**[Live Demo](https://random-data-generator-gamma.vercel.app/)** · **[Report Bug](https://github.com/NipunKachwaha/random-data-generator/issues)** · **[Request Feature](https://github.com/NipunKachwaha/random-data-generator/issues)**
+**[Live Demo](https://random-data-generator-one.vercel.app/)** · **[Report Bug](https://github.com/NipunKachwaha/random-data-generator/issues)** · **[Request Feature](https://github.com/NipunKachwaha/random-data-generator/issues)**
 
 </div>
 
